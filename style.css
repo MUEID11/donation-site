@@ -165,6 +165,30 @@ h3{
 .donate-cols:hover{
     box-shadow: 0 0 20px 0px rgba(0,0,0,.25);
 }
+.imageswithtext{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.donation5{
+    width: 50%;
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-right: 50px;
+    float: left;
+}
+h4{
+    margin-top: 100px;
+    font-weight: 600;
+}
+.donation13{
+    width: 50%;
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-left: 50px;
+    float: right;
+}
 /*------ contribute ------*/
 .contribute{
     width: 80%;
@@ -174,7 +198,7 @@ h3{
 .box{
     position: relative;
     margin: auto;
-    margin-top: 50px;
+    margin-top: 100px;
     background-color: beige;
     height: 200px;
     width: 1500px;
