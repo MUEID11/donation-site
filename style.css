@@ -170,6 +170,7 @@ h3{
     margin: auto;
     display: flex;
     justify-content: space-between;
+    overflow: hidden;
 }
 .donation5{
     width: 50%;
@@ -206,7 +207,7 @@ h4{
 .email{
     position: relative;
     margin-top: 80px;
-    margin-left: 600px;
+    margin-left: 550px;
     padding: 1%;
     border: transparent;
     border-radius: 10px 0 0 10px;
